@@ -63,15 +63,12 @@ The following mods are recommended for newer versions:
 - [No Telemetry](https://modrinth.com/mod/no-telemetry) - QOL, barely any FPS impact
 - [Antighost](https://modrinth.com/mod/antighost)
 
-caution zone
-
-- sodium extras
-
 ```json
-checking compatability:
+caution zone
 
 Krypton
 FerriteCore
+sodium extras
 Spark
 ```
 
