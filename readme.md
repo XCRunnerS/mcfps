@@ -81,3 +81,7 @@ Configuring these mods is fairly simple, and when you hover over the options it 
 - `Max Shadow Distance` - if you have a high render distance, lower your shadow distance and simulation distance to `12` (the default most likely), it will help with FPS and auto-farms
 - make sure everything in the `Preformance` tab is **ON** besaides `Defer Chunk Updates`
 - feel free to change any settings in the `Animations`, `Particles`, `Details`, and `Render` tabs
+
+## JVM Arguments
+
+go into the launcher, click the `installations` tab, click the `3 dots` next to the installation you are using, click `edit`, click `more options`, and in the `jvm arguments` box, replace everything in there with a value that is with `-Xmx4G -Xms4G` BUT **REPLACE 4GB WITH HALF YOUR RAM IF YOU DO NOT HAVE 8GB OR MORE** 
